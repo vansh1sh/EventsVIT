@@ -19,7 +19,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity2" android:label="Main Activity2"></activity>
-        <activity android:name=".Json1" android:label="Json 1"></activity>
 
 
     </application>
